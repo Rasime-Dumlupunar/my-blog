@@ -1,8 +1,8 @@
-Blog Projesi
+#Blog Projesi
 
 Bu proje, HTML, CSS ve JavaScript kullanılarak geliştirilmiş bir blog platformudur. Kullanıcılar blog yazılarını görüntüleyebilir, yeni blog yazıları ekleyebilir, kayıt olup giriş yapabilirler. Projede ayrıca bir "Hakkında" (About) sayfası ve sosyal medya bağlantıları bulunmaktadır.
 
-Özellikler
+##Özellikler
 
 Ana Sayfa: Yayınlanmış blog yazılarını gösterir.
 
@@ -14,7 +14,7 @@ Blog Ekleme Sayfası: Yeni blog yazıları eklemek için kullanılabilir.
 
 Sosyal Medya Bağlantıları: Kullanıcıların blog sahibine sosyal medya üzerinden ulaşmasını sağlar.
 
-Kullanılan Teknolojiler
+##Kullanılan Teknolojiler
 
 HTML – Sayfa yapısını oluşturmak için kullanıldı.
 
