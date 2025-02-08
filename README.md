@@ -33,3 +33,5 @@ This project is a blog platform developed using **HTML**, **CSS**, and **JavaScr
 - **HTML** – Used to structure the pages.
 - **CSS** – Used for design and styling adjustments.
 - **JavaScript** – Used for interactive features and dynamic content.
+
+![](https://github.com/Rasime-Dumlupunar/my-blog/blob/main/myblog.gif)
