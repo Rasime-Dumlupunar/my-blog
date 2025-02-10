@@ -1,6 +1,6 @@
 # Blog Projesi
 
-Bu proje, **HTML**, **CSS** ve **JavaScript** kullanılarak geliştirilmiş bir blog platformudur. Kullanıcılar blog yazılarını görüntüleyebilir, yeni blog yazıları ekleyebilir, kayıt olup giriş yapabilirler. Projede ayrıca bir **"Hakkında" (About)** sayfası ve sosyal medya bağlantıları bulunmaktadır.
+Bu proje, **HTML**, **CSS** ve **JavaScript** kullanılarak geliştirilmiş bir blog platformudur. Kullanıcılar blog yazılarını görüntüleyebilir, yeni blog yazıları ekleyebilir, kayıt olup giriş yapabilirler. Projede ayrıca bir **"Hakkında" ** sayfası ve sosyal medya bağlantıları bulunmaktadır.
 
 ## Özellikler
 
